@@ -1,0 +1,86 @@
+[
+  {
+    "index": 1,
+    "ime": "Mitre",
+    "prezime": "Stankovski",
+    "grad": "Shtip",
+    "prosek": 9
+  },
+  {
+    "index": 2,
+    "ime": "Bogdan",
+    "prezime": "Kostovski",
+    "grad": "Ohrid",
+    "prosek": 5
+  },
+  {
+    "index": 3,
+    "ime": "Bibe",
+    "prezime": "Pavlovska",
+    "grad": "Veles",
+    "prosek": 7
+  },
+  {
+    "index": 4,
+    "ime": "Vasko",
+    "prezime": "Manevski",
+    "grad": "Bitola",
+    "prosek": 9
+  },
+  {
+    "index": 5,
+    "ime": "Blazo",
+    "prezime": "Petrovski",
+    "grad": "Gevgelija",
+    "prosek": 10
+  },
+  {
+    "index": 6,
+    "ime": "Mihaela",
+    "prezime": "Nikoloska",
+    "grad": "Gostivar",
+    "prosek": 8
+  },
+  {
+    "index": 7,
+    "ime": "Ana",
+    "prezime": "Trajkovska",
+    "grad": "Skopje",
+    "prosek": 6
+  },
+  {
+    "index": 8,
+    "ime": "Stefan",
+    "prezime": "Jovanovski",
+    "grad": "Prilep",
+    "prosek": 7
+  },
+  {
+    "index": 9,
+    "ime": "Elena",
+    "prezime": "Milosheska",
+    "grad": "Kumanovo",
+    "prosek": 9
+  },
+  {
+    "index": 10,
+    "ime": "Marko",
+    "prezime": "Spasovski",
+    "grad": "Tetovo",
+    "prosek": 8
+  },
+  {
+    "index": 11,
+    "ime": "Kristina",
+    "prezime": "Naumoska",
+    "grad": "Struga",
+    "prosek": 10
+  },
+  {
+    "index": 12,
+    "ime": "Filip",
+    "prezime": "Andonovski",
+    "grad": "Kavadarci",
+    "prosek": 6
+  }
+]
